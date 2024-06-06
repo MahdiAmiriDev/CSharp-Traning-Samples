@@ -1,0 +1,19 @@
+﻿@using ViewComponentSample.Models;
+@model List<ViewComponentSample.Models.News>
+
+ <table style="border:solid;border-color:blue">
+     <tr>
+         <td>id</td>
+         <td>title</td>
+         <td>description</td>
+     </tr>
+     @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Title</td>
+            <td>@item.Description</td>
+        </tr>
+
+    }
+ </table>

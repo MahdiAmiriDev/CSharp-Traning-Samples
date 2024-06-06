@@ -1,0 +1,15 @@
+﻿@page
+@model ViewComponentSample.Pages.IndexModel
+@{
+}
+
+<h2>hello from default page razor</h2>
+<hr />
+@await Component.InvokeAsync("News",new{newsId=2})
+<hr />
+<vc:news></vc:news>
+<hr />
+<div style="color:red">
+    <vc:from-base></vc:from-base>
+</div>
+@await Component.InvokeAsync("NewsList")

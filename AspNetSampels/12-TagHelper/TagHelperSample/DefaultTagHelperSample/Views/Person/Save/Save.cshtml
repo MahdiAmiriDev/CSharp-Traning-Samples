@@ -1,0 +1,41 @@
+﻿@model Person
+
+@*<form action="/Person/Save" method="post">
+    <div>
+    <label for="firstName"></label>
+    <input type="text" name="FirstName">
+    </div>
+    </form>*@
+
+<form asp-action="save" asp-controller="Person" method="post">
+    <div asp-validation-summary="All"></div>
+    <div>
+        <label asp-for="FirstName"></label>
+        <input asp-for="FirstName" type="text" class="form-control" />
+        <span asp-validation-for="FirstName"></span>
+    </div>
+
+    <div class="input-group">
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName" type="text" class="form-control" />
+        <span asp-validation-for="LastName"></span>
+    </div>
+
+    <div class="input-group">
+        <label asp-for="BirthDate"></label>
+        <input asp-for="BirthDate" type="datetime" class="form-control" />
+        <span asp-validation-for="BirthDate"></span>
+    </div>
+
+    <div class="input-group">
+        <label asp-for="Age"></label>
+        <input asp-for="Age" type="number" class="form-control" />
+        <span asp-validation-for="Age"></span>
+    </div>
+
+    <div>
+        <input type="submit" value="save" />
+    </div>
+
+
+</form>

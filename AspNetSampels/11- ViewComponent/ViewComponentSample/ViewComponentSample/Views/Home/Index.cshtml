@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+<h2>hello from index action of home controller</h2> 
+<hr />
+@await Component.InvokeAsync("News",new{newsId=4})
+<hr />
+<vc:news></vc:news>
+<hr />
+<div style="color:red">
+    <vc:from-base></vc:from-base>
+</div>
+<hr />
+@await Component.InvokeAsync("NewsList")

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd6c71c3-4531-4b71-aabd-51f8accb8b2d": {
+      "ProjectGuid": "cd6c71c3-4531-4b71-aabd-51f8accb8b2d",
+      "DisplayName": "TagHelperSample",
+      "ColorIndex": 0
+    },
+    "8d69d23b-96bb-4387-98d3-db42dc36aec2": {
+      "ProjectGuid": "8d69d23b-96bb-4387-98d3-db42dc36aec2",
+      "DisplayName": "DefaultTagHelperSample",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
