@@ -1,0 +1,15 @@
+E:\Ef Core Learning And Traning\AsynchronusProgramin\AsyncSample\AsyncSample\bin\Debug\net6.0\AsyncSample.exe
+E:\Ef Core Learning And Traning\AsynchronusProgramin\AsyncSample\AsyncSample\bin\Debug\net6.0\AsyncSample.deps.json
+E:\Ef Core Learning And Traning\AsynchronusProgramin\AsyncSample\AsyncSample\bin\Debug\net6.0\AsyncSample.runtimeconfig.json
+E:\Ef Core Learning And Traning\AsynchronusProgramin\AsyncSample\AsyncSample\bin\Debug\net6.0\AsyncSample.dll
+E:\Ef Core Learning And Traning\AsynchronusProgramin\AsyncSample\AsyncSample\bin\Debug\net6.0\ref\AsyncSample.dll
+E:\Ef Core Learning And Traning\AsynchronusProgramin\AsyncSample\AsyncSample\bin\Debug\net6.0\AsyncSample.pdb
+E:\Ef Core Learning And Traning\AsynchronusProgramin\AsyncSample\AsyncSample\obj\Debug\net6.0\AsyncSample.csproj.AssemblyReference.cache
+E:\Ef Core Learning And Traning\AsynchronusProgramin\AsyncSample\AsyncSample\obj\Debug\net6.0\AsyncSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ef Core Learning And Traning\AsynchronusProgramin\AsyncSample\AsyncSample\obj\Debug\net6.0\AsyncSample.AssemblyInfoInputs.cache
+E:\Ef Core Learning And Traning\AsynchronusProgramin\AsyncSample\AsyncSample\obj\Debug\net6.0\AsyncSample.AssemblyInfo.cs
+E:\Ef Core Learning And Traning\AsynchronusProgramin\AsyncSample\AsyncSample\obj\Debug\net6.0\AsyncSample.csproj.CoreCompileInputs.cache
+E:\Ef Core Learning And Traning\AsynchronusProgramin\AsyncSample\AsyncSample\obj\Debug\net6.0\AsyncSample.dll
+E:\Ef Core Learning And Traning\AsynchronusProgramin\AsyncSample\AsyncSample\obj\Debug\net6.0\ref\AsyncSample.dll
+E:\Ef Core Learning And Traning\AsynchronusProgramin\AsyncSample\AsyncSample\obj\Debug\net6.0\AsyncSample.pdb
+E:\Ef Core Learning And Traning\AsynchronusProgramin\AsyncSample\AsyncSample\obj\Debug\net6.0\AsyncSample.genruntimeconfig.cache

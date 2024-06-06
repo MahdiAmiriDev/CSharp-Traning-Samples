@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8a089ef0-65b4-436f-a378-918254cf1d52": {
+      "ProjectGuid": "8a089ef0-65b4-436f-a378-918254cf1d52",
+      "DisplayName": "ConsoleUi.AdoSample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
