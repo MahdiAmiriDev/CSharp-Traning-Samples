@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "407af80d-1644-4e5e-868c-7f9fb2410efc": {
+      "ProjectGuid": "407af80d-1644-4e5e-868c-7f9fb2410efc",
+      "DisplayName": "LogSamples",
+      "ColorIndex": 0
+    },
+    "8f0199bf-0460-4672-835a-514eebc491c1": {
+      "ProjectGuid": "8f0199bf-0460-4672-835a-514eebc491c1",
+      "DisplayName": "LoggerTest",
+      "ColorIndex": 1
+    },
+    "08f4ba49-51db-4694-b6e4-2cf258774c0c": {
+      "ProjectGuid": "08f4ba49-51db-4694-b6e4-2cf258774c0c",
+      "DisplayName": "FileLoggerProvider",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateManagement", "StateManagement\StateManagement.csproj", "{75CE98EC-98B4-481E-9B4B-C837E5F1FBF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75CE98EC-98B4-481E-9B4B-C837E5F1FBF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CE98EC-98B4-481E-9B4B-C837E5F1FBF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CE98EC-98B4-481E-9B4B-C837E5F1FBF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CE98EC-98B4-481E-9B4B-C837E5F1FBF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E63825B4-E170-49ED-A534-70D63777F55A}
+	EndGlobalSection
+EndGlobal

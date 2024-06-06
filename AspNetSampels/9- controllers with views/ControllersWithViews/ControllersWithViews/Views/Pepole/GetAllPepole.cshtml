@@ -1,0 +1,39 @@
+﻿
+@model List<Pepole>
+@*@inherits MyBasePage*@
+@inject IPepole _repo
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width"/>        
+        <title>test</title>
+    </head>
+    <body>
+        <div>
+            <table>
+                <tr>
+                    <td>id</td>
+                    <td>first name</td>
+                    <td>last name</td>
+                </tr>
+                @foreach (var item in Model)
+            {
+                
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.FirstName</td>
+                    <td>@item.LastName</td>
+                </tr>
+            }
+            </table>
+            @*<p>@Age</p>*@
+            <p>@_repo.GetName()</p>
+        </div>
+        @await Html.PartialAsync("TestPartialView","Modeling")
+    </body>
+</html>
+
+@*@section sample{
+
+}*@

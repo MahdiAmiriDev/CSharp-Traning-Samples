@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "12558c0a-04d8-48ed-9bdc-0d15dcf9f84f": {
+      "ProjectGuid": "12558c0a-04d8-48ed-9bdc-0d15dcf9f84f",
+      "DisplayName": "RestApi.Model",
+      "ColorIndex": 0
+    },
+    "e88f584c-956e-4491-9784-4f3ec68fb175": {
+      "ProjectGuid": "e88f584c-956e-4491-9784-4f3ec68fb175",
+      "DisplayName": "RestSample.ConsoleApp",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ba437e84-acb7-4786-a766-e1b13e4dd5ab": {
+      "ProjectGuid": "ba437e84-acb7-4786-a766-e1b13e4dd5ab",
+      "DisplayName": "RestBootStrap",
+      "ColorIndex": 2
+    },
+    "519ab82a-fb1b-44be-9586-2e828f470e33": {
+      "ProjectGuid": "519ab82a-fb1b-44be-9586-2e828f470e33",
+      "DisplayName": "MinimalApi.Sample",
+      "ColorIndex": 3
+    },
+    "549e1c4a-c60a-4d81-bef8-df889aa40c24": {
+      "ProjectGuid": "549e1c4a-c60a-4d81-bef8-df889aa40c24",
+      "DisplayName": "RestSample.CrtlSamples",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

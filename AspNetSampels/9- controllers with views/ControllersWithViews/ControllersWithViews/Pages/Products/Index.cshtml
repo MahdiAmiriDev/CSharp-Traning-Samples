@@ -1,0 +1,46 @@
+﻿@page "/Products/lst/{count:int?}"
+@model ControllersWithViews.Pages.Products.IndexModel
+@{
+}
+
+
+
+<div>
+    <h2>
+        Products Page
+    </h2>
+</div>
+
+
+<table>
+    <tr>
+        <td>Id</td>
+        <td>Fname</td>
+        <td>Lname</td>
+    </tr>
+    @if (Model.Person != null)
+    {
+        <tr>
+            <td>@Model.Person.Id</td>
+            <td>@Model.Person.FirstName</td>
+            <td>@Model.Person.LastName</td>
+        </tr>
+    }
+    else
+    {
+        foreach (var item in Model.Pepole)
+        {
+
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.FirstName</td>
+                <td>@item.LastName</td>
+            </tr>
+        }
+    }
+
+</table>
+
+<h3>
+    @Model.GetTime()
+</h3>
