@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7e47512c-7214-4dc7-9e4e-e36ded3400e3": {
+      "ProjectGuid": "7e47512c-7214-4dc7-9e4e-e36ded3400e3",
+      "DisplayName": "HostedService.PostSample",
+      "ColorIndex": 0
+    },
+    "4c25f212-2a48-4d1d-b8c3-12a136ef9d40": {
+      "ProjectGuid": "4c25f212-2a48-4d1d-b8c3-12a136ef9d40",
+      "DisplayName": "QuartzSample",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
