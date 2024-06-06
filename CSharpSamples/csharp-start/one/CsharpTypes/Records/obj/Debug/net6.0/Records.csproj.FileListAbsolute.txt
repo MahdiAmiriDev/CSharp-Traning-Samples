@@ -1,0 +1,15 @@
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Records\bin\Debug\net6.0\Records.exe
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Records\bin\Debug\net6.0\Records.deps.json
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Records\bin\Debug\net6.0\Records.runtimeconfig.json
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Records\bin\Debug\net6.0\Records.dll
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Records\bin\Debug\net6.0\ref\Records.dll
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Records\bin\Debug\net6.0\Records.pdb
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Records\obj\Debug\net6.0\Records.csproj.AssemblyReference.cache
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Records\obj\Debug\net6.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Records\obj\Debug\net6.0\Records.AssemblyInfoInputs.cache
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Records\obj\Debug\net6.0\Records.AssemblyInfo.cs
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Records\obj\Debug\net6.0\Records.csproj.CoreCompileInputs.cache
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Records\obj\Debug\net6.0\Records.dll
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Records\obj\Debug\net6.0\ref\Records.dll
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Records\obj\Debug\net6.0\Records.pdb
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Records\obj\Debug\net6.0\Records.genruntimeconfig.cache

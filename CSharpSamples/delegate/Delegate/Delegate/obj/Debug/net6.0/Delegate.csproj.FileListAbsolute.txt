@@ -1,0 +1,15 @@
+E:\Ef Core Learning And Traning\delegate\Delegate\Delegate\bin\Debug\net6.0\Delegate.exe
+E:\Ef Core Learning And Traning\delegate\Delegate\Delegate\bin\Debug\net6.0\Delegate.deps.json
+E:\Ef Core Learning And Traning\delegate\Delegate\Delegate\bin\Debug\net6.0\Delegate.runtimeconfig.json
+E:\Ef Core Learning And Traning\delegate\Delegate\Delegate\bin\Debug\net6.0\Delegate.dll
+E:\Ef Core Learning And Traning\delegate\Delegate\Delegate\bin\Debug\net6.0\ref\Delegate.dll
+E:\Ef Core Learning And Traning\delegate\Delegate\Delegate\bin\Debug\net6.0\Delegate.pdb
+E:\Ef Core Learning And Traning\delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.csproj.AssemblyReference.cache
+E:\Ef Core Learning And Traning\delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ef Core Learning And Traning\delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfoInputs.cache
+E:\Ef Core Learning And Traning\delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfo.cs
+E:\Ef Core Learning And Traning\delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.csproj.CoreCompileInputs.cache
+E:\Ef Core Learning And Traning\delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.dll
+E:\Ef Core Learning And Traning\delegate\Delegate\Delegate\obj\Debug\net6.0\ref\Delegate.dll
+E:\Ef Core Learning And Traning\delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.pdb
+E:\Ef Core Learning And Traning\delegate\Delegate\Delegate\obj\Debug\net6.0\Delegate.genruntimeconfig.cache

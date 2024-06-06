@@ -1,0 +1,15 @@
+E:\Ef Core Learning And Traning\csharp-start\one\oop\oop\inheritance\bin\Debug\net6.0\inheritance.exe
+E:\Ef Core Learning And Traning\csharp-start\one\oop\oop\inheritance\bin\Debug\net6.0\inheritance.deps.json
+E:\Ef Core Learning And Traning\csharp-start\one\oop\oop\inheritance\bin\Debug\net6.0\inheritance.runtimeconfig.json
+E:\Ef Core Learning And Traning\csharp-start\one\oop\oop\inheritance\bin\Debug\net6.0\inheritance.dll
+E:\Ef Core Learning And Traning\csharp-start\one\oop\oop\inheritance\bin\Debug\net6.0\ref\inheritance.dll
+E:\Ef Core Learning And Traning\csharp-start\one\oop\oop\inheritance\bin\Debug\net6.0\inheritance.pdb
+E:\Ef Core Learning And Traning\csharp-start\one\oop\oop\inheritance\obj\Debug\net6.0\inheritance.csproj.AssemblyReference.cache
+E:\Ef Core Learning And Traning\csharp-start\one\oop\oop\inheritance\obj\Debug\net6.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ef Core Learning And Traning\csharp-start\one\oop\oop\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfoInputs.cache
+E:\Ef Core Learning And Traning\csharp-start\one\oop\oop\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfo.cs
+E:\Ef Core Learning And Traning\csharp-start\one\oop\oop\inheritance\obj\Debug\net6.0\inheritance.csproj.CoreCompileInputs.cache
+E:\Ef Core Learning And Traning\csharp-start\one\oop\oop\inheritance\obj\Debug\net6.0\inheritance.dll
+E:\Ef Core Learning And Traning\csharp-start\one\oop\oop\inheritance\obj\Debug\net6.0\ref\inheritance.dll
+E:\Ef Core Learning And Traning\csharp-start\one\oop\oop\inheritance\obj\Debug\net6.0\inheritance.pdb
+E:\Ef Core Learning And Traning\csharp-start\one\oop\oop\inheritance\obj\Debug\net6.0\inheritance.genruntimeconfig.cache

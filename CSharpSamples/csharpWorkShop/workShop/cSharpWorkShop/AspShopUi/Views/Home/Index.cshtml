@@ -1,0 +1,15 @@
+﻿@model PageData<Product> 
+
+<h1>Welcome to asp .net core 06</h1>
+
+@foreach(var item in Model.Data)
+{
+    <div>
+        <h2>@item.Name</h2>
+        <span><small>@item.Price</small></span>
+        <p>@item.Description</p>
+    </div>
+}  
+<div page-model="Model.PageInfo" page-action="Index">
+
+</div>

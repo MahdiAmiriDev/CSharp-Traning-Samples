@@ -1,0 +1,15 @@
+E:\Ef Core Learning And Traning\csharp-start\one\first\begining\bin\Debug\net6.0\begining.exe
+E:\Ef Core Learning And Traning\csharp-start\one\first\begining\bin\Debug\net6.0\begining.deps.json
+E:\Ef Core Learning And Traning\csharp-start\one\first\begining\bin\Debug\net6.0\begining.runtimeconfig.json
+E:\Ef Core Learning And Traning\csharp-start\one\first\begining\bin\Debug\net6.0\begining.dll
+E:\Ef Core Learning And Traning\csharp-start\one\first\begining\bin\Debug\net6.0\ref\begining.dll
+E:\Ef Core Learning And Traning\csharp-start\one\first\begining\bin\Debug\net6.0\begining.pdb
+E:\Ef Core Learning And Traning\csharp-start\one\first\begining\obj\Debug\net6.0\begining.csproj.AssemblyReference.cache
+E:\Ef Core Learning And Traning\csharp-start\one\first\begining\obj\Debug\net6.0\begining.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ef Core Learning And Traning\csharp-start\one\first\begining\obj\Debug\net6.0\begining.AssemblyInfoInputs.cache
+E:\Ef Core Learning And Traning\csharp-start\one\first\begining\obj\Debug\net6.0\begining.AssemblyInfo.cs
+E:\Ef Core Learning And Traning\csharp-start\one\first\begining\obj\Debug\net6.0\begining.csproj.CoreCompileInputs.cache
+E:\Ef Core Learning And Traning\csharp-start\one\first\begining\obj\Debug\net6.0\begining.dll
+E:\Ef Core Learning And Traning\csharp-start\one\first\begining\obj\Debug\net6.0\ref\begining.dll
+E:\Ef Core Learning And Traning\csharp-start\one\first\begining\obj\Debug\net6.0\begining.pdb
+E:\Ef Core Learning And Traning\csharp-start\one\first\begining\obj\Debug\net6.0\begining.genruntimeconfig.cache

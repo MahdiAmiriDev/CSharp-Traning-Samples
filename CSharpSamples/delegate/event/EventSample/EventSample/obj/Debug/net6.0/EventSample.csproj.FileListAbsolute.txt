@@ -1,0 +1,15 @@
+E:\NikAmooz Samples\c# samples\delegate\event\EventSample\EventSample\bin\Debug\net6.0\EventSample.exe
+E:\NikAmooz Samples\c# samples\delegate\event\EventSample\EventSample\bin\Debug\net6.0\EventSample.deps.json
+E:\NikAmooz Samples\c# samples\delegate\event\EventSample\EventSample\bin\Debug\net6.0\EventSample.runtimeconfig.json
+E:\NikAmooz Samples\c# samples\delegate\event\EventSample\EventSample\bin\Debug\net6.0\EventSample.dll
+E:\NikAmooz Samples\c# samples\delegate\event\EventSample\EventSample\bin\Debug\net6.0\ref\EventSample.dll
+E:\NikAmooz Samples\c# samples\delegate\event\EventSample\EventSample\bin\Debug\net6.0\EventSample.pdb
+E:\NikAmooz Samples\c# samples\delegate\event\EventSample\EventSample\obj\Debug\net6.0\EventSample.csproj.AssemblyReference.cache
+E:\NikAmooz Samples\c# samples\delegate\event\EventSample\EventSample\obj\Debug\net6.0\EventSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\NikAmooz Samples\c# samples\delegate\event\EventSample\EventSample\obj\Debug\net6.0\EventSample.AssemblyInfoInputs.cache
+E:\NikAmooz Samples\c# samples\delegate\event\EventSample\EventSample\obj\Debug\net6.0\EventSample.AssemblyInfo.cs
+E:\NikAmooz Samples\c# samples\delegate\event\EventSample\EventSample\obj\Debug\net6.0\EventSample.csproj.CoreCompileInputs.cache
+E:\NikAmooz Samples\c# samples\delegate\event\EventSample\EventSample\obj\Debug\net6.0\EventSample.dll
+E:\NikAmooz Samples\c# samples\delegate\event\EventSample\EventSample\obj\Debug\net6.0\ref\EventSample.dll
+E:\NikAmooz Samples\c# samples\delegate\event\EventSample\EventSample\obj\Debug\net6.0\EventSample.pdb
+E:\NikAmooz Samples\c# samples\delegate\event\EventSample\EventSample\obj\Debug\net6.0\EventSample.genruntimeconfig.cache

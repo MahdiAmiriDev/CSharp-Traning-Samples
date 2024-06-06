@@ -1,0 +1,14 @@
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Tuple\bin\Debug\net6.0\Tuple.exe
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Tuple\bin\Debug\net6.0\Tuple.deps.json
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Tuple\bin\Debug\net6.0\Tuple.runtimeconfig.json
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Tuple\bin\Debug\net6.0\Tuple.dll
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Tuple\bin\Debug\net6.0\ref\Tuple.dll
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Tuple\bin\Debug\net6.0\Tuple.pdb
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Tuple\obj\Debug\net6.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfoInputs.cache
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfo.cs
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Tuple\obj\Debug\net6.0\Tuple.csproj.CoreCompileInputs.cache
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Tuple\obj\Debug\net6.0\Tuple.dll
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Tuple\obj\Debug\net6.0\ref\Tuple.dll
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Tuple\obj\Debug\net6.0\Tuple.pdb
+E:\Ef Core Learning And Traning\csharp-start\one\CsharpTypes\Tuple\obj\Debug\net6.0\Tuple.genruntimeconfig.cache
