@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a08c9c27-6dd9-4761-a970-62843ef3cdf8": {
+      "ProjectGuid": "a08c9c27-6dd9-4761-a970-62843ef3cdf8",
+      "DisplayName": "EfMigration",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7ca2e3d8-d71c-41e9-93f0-ced534332d3a": {
+      "ProjectGuid": "7ca2e3d8-d71c-41e9-93f0-ced534332d3a",
+      "DisplayName": "EfReverseSample",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
