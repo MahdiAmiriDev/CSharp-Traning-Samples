@@ -1,0 +1,17 @@
+E:\Ef Core Learning And Traning\WorkShop\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.BLL.deps.json
+E:\Ef Core Learning And Traning\WorkShop\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.BLL.dll
+E:\Ef Core Learning And Traning\WorkShop\CourseStore\CourseStore.BLL\bin\Debug\net6.0\ref\CourseStore.BLL.dll
+E:\Ef Core Learning And Traning\WorkShop\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.BLL.pdb
+E:\Ef Core Learning And Traning\WorkShop\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.DAL.dll
+E:\Ef Core Learning And Traning\WorkShop\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.Model.dll
+E:\Ef Core Learning And Traning\WorkShop\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.DAL.pdb
+E:\Ef Core Learning And Traning\WorkShop\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.Model.pdb
+E:\Ef Core Learning And Traning\WorkShop\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.csproj.AssemblyReference.cache
+E:\Ef Core Learning And Traning\WorkShop\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ef Core Learning And Traning\WorkShop\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.AssemblyInfoInputs.cache
+E:\Ef Core Learning And Traning\WorkShop\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.AssemblyInfo.cs
+E:\Ef Core Learning And Traning\WorkShop\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.csproj.CoreCompileInputs.cache
+E:\Ef Core Learning And Traning\WorkShop\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.csproj.CopyComplete
+E:\Ef Core Learning And Traning\WorkShop\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.dll
+E:\Ef Core Learning And Traning\WorkShop\CourseStore\CourseStore.BLL\obj\Debug\net6.0\ref\CourseStore.BLL.dll
+E:\Ef Core Learning And Traning\WorkShop\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.pdb

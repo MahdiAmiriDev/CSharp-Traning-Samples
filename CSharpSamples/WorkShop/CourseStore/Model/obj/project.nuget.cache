@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dry0i95hPX31cRUJVp1Mf9nLAT6jTVrcgD3WG6Q+DlrqMSk8c6mvmrF1lVpTg9TgQFUAzPxKcJMgKhyojJ4g9g==",
+  "success": true,
+  "projectFilePath": "E:\\Ef Core Learning And Traning\\WorkShop\\CourseStore\\Model\\CourseStore.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

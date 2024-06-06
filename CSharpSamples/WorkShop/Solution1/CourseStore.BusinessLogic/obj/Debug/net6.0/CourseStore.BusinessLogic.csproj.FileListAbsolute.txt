@@ -1,0 +1,15 @@
+E:\Ef Core Learning And Traning\WorkShop\Solution1\CourseStore.BusinessLogic\bin\Debug\net6.0\CourseStore.BusinessLogic.deps.json
+E:\Ef Core Learning And Traning\WorkShop\Solution1\CourseStore.BusinessLogic\bin\Debug\net6.0\CourseStore.BusinessLogic.dll
+E:\Ef Core Learning And Traning\WorkShop\Solution1\CourseStore.BusinessLogic\bin\Debug\net6.0\ref\CourseStore.BusinessLogic.dll
+E:\Ef Core Learning And Traning\WorkShop\Solution1\CourseStore.BusinessLogic\bin\Debug\net6.0\CourseStore.BusinessLogic.pdb
+E:\Ef Core Learning And Traning\WorkShop\Solution1\CourseStore.BusinessLogic\bin\Debug\net6.0\CourseStore.DAL.dll
+E:\Ef Core Learning And Traning\WorkShop\Solution1\CourseStore.BusinessLogic\bin\Debug\net6.0\CourseStore.DAL.pdb
+E:\Ef Core Learning And Traning\WorkShop\Solution1\CourseStore.BusinessLogic\obj\Debug\net6.0\CourseStore.BusinessLogic.csproj.AssemblyReference.cache
+E:\Ef Core Learning And Traning\WorkShop\Solution1\CourseStore.BusinessLogic\obj\Debug\net6.0\CourseStore.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ef Core Learning And Traning\WorkShop\Solution1\CourseStore.BusinessLogic\obj\Debug\net6.0\CourseStore.BusinessLogic.AssemblyInfoInputs.cache
+E:\Ef Core Learning And Traning\WorkShop\Solution1\CourseStore.BusinessLogic\obj\Debug\net6.0\CourseStore.BusinessLogic.AssemblyInfo.cs
+E:\Ef Core Learning And Traning\WorkShop\Solution1\CourseStore.BusinessLogic\obj\Debug\net6.0\CourseStore.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Ef Core Learning And Traning\WorkShop\Solution1\CourseStore.BusinessLogic\obj\Debug\net6.0\CourseStore.BusinessLogic.csproj.CopyComplete
+E:\Ef Core Learning And Traning\WorkShop\Solution1\CourseStore.BusinessLogic\obj\Debug\net6.0\CourseStore.BusinessLogic.dll
+E:\Ef Core Learning And Traning\WorkShop\Solution1\CourseStore.BusinessLogic\obj\Debug\net6.0\ref\CourseStore.BusinessLogic.dll
+E:\Ef Core Learning And Traning\WorkShop\Solution1\CourseStore.BusinessLogic\obj\Debug\net6.0\CourseStore.BusinessLogic.pdb

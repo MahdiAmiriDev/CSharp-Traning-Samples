@@ -1,0 +1,15 @@
+E:\Ef Core Learning And Traning\Thread\Sample.Thread\Sample.Thread\bin\Debug\net6.0\Sample.Thread.exe
+E:\Ef Core Learning And Traning\Thread\Sample.Thread\Sample.Thread\bin\Debug\net6.0\Sample.Thread.deps.json
+E:\Ef Core Learning And Traning\Thread\Sample.Thread\Sample.Thread\bin\Debug\net6.0\Sample.Thread.runtimeconfig.json
+E:\Ef Core Learning And Traning\Thread\Sample.Thread\Sample.Thread\bin\Debug\net6.0\Sample.Thread.dll
+E:\Ef Core Learning And Traning\Thread\Sample.Thread\Sample.Thread\bin\Debug\net6.0\ref\Sample.Thread.dll
+E:\Ef Core Learning And Traning\Thread\Sample.Thread\Sample.Thread\bin\Debug\net6.0\Sample.Thread.pdb
+E:\Ef Core Learning And Traning\Thread\Sample.Thread\Sample.Thread\obj\Debug\net6.0\Sample.Thread.csproj.AssemblyReference.cache
+E:\Ef Core Learning And Traning\Thread\Sample.Thread\Sample.Thread\obj\Debug\net6.0\Sample.Thread.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ef Core Learning And Traning\Thread\Sample.Thread\Sample.Thread\obj\Debug\net6.0\Sample.Thread.AssemblyInfoInputs.cache
+E:\Ef Core Learning And Traning\Thread\Sample.Thread\Sample.Thread\obj\Debug\net6.0\Sample.Thread.AssemblyInfo.cs
+E:\Ef Core Learning And Traning\Thread\Sample.Thread\Sample.Thread\obj\Debug\net6.0\Sample.Thread.csproj.CoreCompileInputs.cache
+E:\Ef Core Learning And Traning\Thread\Sample.Thread\Sample.Thread\obj\Debug\net6.0\Sample.Thread.dll
+E:\Ef Core Learning And Traning\Thread\Sample.Thread\Sample.Thread\obj\Debug\net6.0\ref\Sample.Thread.dll
+E:\Ef Core Learning And Traning\Thread\Sample.Thread\Sample.Thread\obj\Debug\net6.0\Sample.Thread.pdb
+E:\Ef Core Learning And Traning\Thread\Sample.Thread\Sample.Thread\obj\Debug\net6.0\Sample.Thread.genruntimeconfig.cache

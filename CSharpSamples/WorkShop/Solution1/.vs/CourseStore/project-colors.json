@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8a75334d-bb91-4050-a646-1ec8a1222666": {
+      "ProjectGuid": "8a75334d-bb91-4050-a646-1ec8a1222666",
+      "DisplayName": "CourseStore.DAL",
+      "ColorIndex": 0
+    },
+    "2cbb6559-9fff-4af2-8c8a-f29a8651a127": {
+      "ProjectGuid": "2cbb6559-9fff-4af2-8c8a-f29a8651a127",
+      "DisplayName": "CourseStore.WebUi",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ed08b663-ef50-47cc-833d-ef75d5398f3e": {
+      "ProjectGuid": "ed08b663-ef50-47cc-833d-ef75d5398f3e",
+      "DisplayName": "CourseStore.BusinessLogic",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
