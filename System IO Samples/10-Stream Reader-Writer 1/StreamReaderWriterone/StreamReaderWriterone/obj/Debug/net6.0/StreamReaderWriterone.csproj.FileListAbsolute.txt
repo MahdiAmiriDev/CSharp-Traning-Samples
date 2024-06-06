@@ -1,0 +1,15 @@
+E:\System IO Samples\10-Stream Reader-Writer 1\StreamReaderWriterone\StreamReaderWriterone\bin\Debug\net6.0\StreamReaderWriterone.exe
+E:\System IO Samples\10-Stream Reader-Writer 1\StreamReaderWriterone\StreamReaderWriterone\bin\Debug\net6.0\StreamReaderWriterone.deps.json
+E:\System IO Samples\10-Stream Reader-Writer 1\StreamReaderWriterone\StreamReaderWriterone\bin\Debug\net6.0\StreamReaderWriterone.runtimeconfig.json
+E:\System IO Samples\10-Stream Reader-Writer 1\StreamReaderWriterone\StreamReaderWriterone\bin\Debug\net6.0\StreamReaderWriterone.dll
+E:\System IO Samples\10-Stream Reader-Writer 1\StreamReaderWriterone\StreamReaderWriterone\bin\Debug\net6.0\ref\StreamReaderWriterone.dll
+E:\System IO Samples\10-Stream Reader-Writer 1\StreamReaderWriterone\StreamReaderWriterone\bin\Debug\net6.0\StreamReaderWriterone.pdb
+E:\System IO Samples\10-Stream Reader-Writer 1\StreamReaderWriterone\StreamReaderWriterone\obj\Debug\net6.0\StreamReaderWriterone.csproj.AssemblyReference.cache
+E:\System IO Samples\10-Stream Reader-Writer 1\StreamReaderWriterone\StreamReaderWriterone\obj\Debug\net6.0\StreamReaderWriterone.GeneratedMSBuildEditorConfig.editorconfig
+E:\System IO Samples\10-Stream Reader-Writer 1\StreamReaderWriterone\StreamReaderWriterone\obj\Debug\net6.0\StreamReaderWriterone.AssemblyInfoInputs.cache
+E:\System IO Samples\10-Stream Reader-Writer 1\StreamReaderWriterone\StreamReaderWriterone\obj\Debug\net6.0\StreamReaderWriterone.AssemblyInfo.cs
+E:\System IO Samples\10-Stream Reader-Writer 1\StreamReaderWriterone\StreamReaderWriterone\obj\Debug\net6.0\StreamReaderWriterone.csproj.CoreCompileInputs.cache
+E:\System IO Samples\10-Stream Reader-Writer 1\StreamReaderWriterone\StreamReaderWriterone\obj\Debug\net6.0\StreamReaderWriterone.dll
+E:\System IO Samples\10-Stream Reader-Writer 1\StreamReaderWriterone\StreamReaderWriterone\obj\Debug\net6.0\ref\StreamReaderWriterone.dll
+E:\System IO Samples\10-Stream Reader-Writer 1\StreamReaderWriterone\StreamReaderWriterone\obj\Debug\net6.0\StreamReaderWriterone.pdb
+E:\System IO Samples\10-Stream Reader-Writer 1\StreamReaderWriterone\StreamReaderWriterone\obj\Debug\net6.0\StreamReaderWriterone.genruntimeconfig.cache

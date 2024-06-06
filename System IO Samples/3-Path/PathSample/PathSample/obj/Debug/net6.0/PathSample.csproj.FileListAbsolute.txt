@@ -1,0 +1,15 @@
+E:\System IO Samples\3-Path\PathSample\PathSample\bin\Debug\net6.0\PathSample.exe
+E:\System IO Samples\3-Path\PathSample\PathSample\bin\Debug\net6.0\PathSample.deps.json
+E:\System IO Samples\3-Path\PathSample\PathSample\bin\Debug\net6.0\PathSample.runtimeconfig.json
+E:\System IO Samples\3-Path\PathSample\PathSample\bin\Debug\net6.0\PathSample.dll
+E:\System IO Samples\3-Path\PathSample\PathSample\bin\Debug\net6.0\ref\PathSample.dll
+E:\System IO Samples\3-Path\PathSample\PathSample\bin\Debug\net6.0\PathSample.pdb
+E:\System IO Samples\3-Path\PathSample\PathSample\obj\Debug\net6.0\PathSample.csproj.AssemblyReference.cache
+E:\System IO Samples\3-Path\PathSample\PathSample\obj\Debug\net6.0\PathSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\System IO Samples\3-Path\PathSample\PathSample\obj\Debug\net6.0\PathSample.AssemblyInfoInputs.cache
+E:\System IO Samples\3-Path\PathSample\PathSample\obj\Debug\net6.0\PathSample.AssemblyInfo.cs
+E:\System IO Samples\3-Path\PathSample\PathSample\obj\Debug\net6.0\PathSample.csproj.CoreCompileInputs.cache
+E:\System IO Samples\3-Path\PathSample\PathSample\obj\Debug\net6.0\PathSample.dll
+E:\System IO Samples\3-Path\PathSample\PathSample\obj\Debug\net6.0\ref\PathSample.dll
+E:\System IO Samples\3-Path\PathSample\PathSample\obj\Debug\net6.0\PathSample.pdb
+E:\System IO Samples\3-Path\PathSample\PathSample\obj\Debug\net6.0\PathSample.genruntimeconfig.cache

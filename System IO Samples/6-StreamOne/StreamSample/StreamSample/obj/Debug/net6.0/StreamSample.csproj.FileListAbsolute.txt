@@ -1,0 +1,15 @@
+E:\System IO Samples\6-StreamOne\StreamSample\StreamSample\bin\Debug\net6.0\StreamSample.exe
+E:\System IO Samples\6-StreamOne\StreamSample\StreamSample\bin\Debug\net6.0\StreamSample.deps.json
+E:\System IO Samples\6-StreamOne\StreamSample\StreamSample\bin\Debug\net6.0\StreamSample.runtimeconfig.json
+E:\System IO Samples\6-StreamOne\StreamSample\StreamSample\bin\Debug\net6.0\StreamSample.dll
+E:\System IO Samples\6-StreamOne\StreamSample\StreamSample\bin\Debug\net6.0\ref\StreamSample.dll
+E:\System IO Samples\6-StreamOne\StreamSample\StreamSample\bin\Debug\net6.0\StreamSample.pdb
+E:\System IO Samples\6-StreamOne\StreamSample\StreamSample\obj\Debug\net6.0\StreamSample.csproj.AssemblyReference.cache
+E:\System IO Samples\6-StreamOne\StreamSample\StreamSample\obj\Debug\net6.0\StreamSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\System IO Samples\6-StreamOne\StreamSample\StreamSample\obj\Debug\net6.0\StreamSample.AssemblyInfoInputs.cache
+E:\System IO Samples\6-StreamOne\StreamSample\StreamSample\obj\Debug\net6.0\StreamSample.AssemblyInfo.cs
+E:\System IO Samples\6-StreamOne\StreamSample\StreamSample\obj\Debug\net6.0\StreamSample.csproj.CoreCompileInputs.cache
+E:\System IO Samples\6-StreamOne\StreamSample\StreamSample\obj\Debug\net6.0\StreamSample.dll
+E:\System IO Samples\6-StreamOne\StreamSample\StreamSample\obj\Debug\net6.0\ref\StreamSample.dll
+E:\System IO Samples\6-StreamOne\StreamSample\StreamSample\obj\Debug\net6.0\StreamSample.pdb
+E:\System IO Samples\6-StreamOne\StreamSample\StreamSample\obj\Debug\net6.0\StreamSample.genruntimeconfig.cache

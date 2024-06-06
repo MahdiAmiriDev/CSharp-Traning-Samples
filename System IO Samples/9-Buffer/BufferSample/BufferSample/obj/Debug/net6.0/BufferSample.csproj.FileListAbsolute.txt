@@ -1,0 +1,15 @@
+E:\System IO Samples\9-Buffer\BufferSample\BufferSample\bin\Debug\net6.0\BufferSample.exe
+E:\System IO Samples\9-Buffer\BufferSample\BufferSample\bin\Debug\net6.0\BufferSample.deps.json
+E:\System IO Samples\9-Buffer\BufferSample\BufferSample\bin\Debug\net6.0\BufferSample.runtimeconfig.json
+E:\System IO Samples\9-Buffer\BufferSample\BufferSample\bin\Debug\net6.0\BufferSample.dll
+E:\System IO Samples\9-Buffer\BufferSample\BufferSample\bin\Debug\net6.0\ref\BufferSample.dll
+E:\System IO Samples\9-Buffer\BufferSample\BufferSample\bin\Debug\net6.0\BufferSample.pdb
+E:\System IO Samples\9-Buffer\BufferSample\BufferSample\obj\Debug\net6.0\BufferSample.csproj.AssemblyReference.cache
+E:\System IO Samples\9-Buffer\BufferSample\BufferSample\obj\Debug\net6.0\BufferSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\System IO Samples\9-Buffer\BufferSample\BufferSample\obj\Debug\net6.0\BufferSample.AssemblyInfoInputs.cache
+E:\System IO Samples\9-Buffer\BufferSample\BufferSample\obj\Debug\net6.0\BufferSample.AssemblyInfo.cs
+E:\System IO Samples\9-Buffer\BufferSample\BufferSample\obj\Debug\net6.0\BufferSample.csproj.CoreCompileInputs.cache
+E:\System IO Samples\9-Buffer\BufferSample\BufferSample\obj\Debug\net6.0\BufferSample.dll
+E:\System IO Samples\9-Buffer\BufferSample\BufferSample\obj\Debug\net6.0\ref\BufferSample.dll
+E:\System IO Samples\9-Buffer\BufferSample\BufferSample\obj\Debug\net6.0\BufferSample.pdb
+E:\System IO Samples\9-Buffer\BufferSample\BufferSample\obj\Debug\net6.0\BufferSample.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\System IO Samples\21- download from web\DownloadSample\DownloadSample\bin\Debug\net6.0\DownloadSample.exe
+E:\System IO Samples\21- download from web\DownloadSample\DownloadSample\bin\Debug\net6.0\DownloadSample.deps.json
+E:\System IO Samples\21- download from web\DownloadSample\DownloadSample\bin\Debug\net6.0\DownloadSample.runtimeconfig.json
+E:\System IO Samples\21- download from web\DownloadSample\DownloadSample\bin\Debug\net6.0\DownloadSample.dll
+E:\System IO Samples\21- download from web\DownloadSample\DownloadSample\bin\Debug\net6.0\ref\DownloadSample.dll
+E:\System IO Samples\21- download from web\DownloadSample\DownloadSample\bin\Debug\net6.0\DownloadSample.pdb
+E:\System IO Samples\21- download from web\DownloadSample\DownloadSample\obj\Debug\net6.0\DownloadSample.csproj.AssemblyReference.cache
+E:\System IO Samples\21- download from web\DownloadSample\DownloadSample\obj\Debug\net6.0\DownloadSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\System IO Samples\21- download from web\DownloadSample\DownloadSample\obj\Debug\net6.0\DownloadSample.AssemblyInfoInputs.cache
+E:\System IO Samples\21- download from web\DownloadSample\DownloadSample\obj\Debug\net6.0\DownloadSample.AssemblyInfo.cs
+E:\System IO Samples\21- download from web\DownloadSample\DownloadSample\obj\Debug\net6.0\DownloadSample.csproj.CoreCompileInputs.cache
+E:\System IO Samples\21- download from web\DownloadSample\DownloadSample\obj\Debug\net6.0\DownloadSample.dll
+E:\System IO Samples\21- download from web\DownloadSample\DownloadSample\obj\Debug\net6.0\ref\DownloadSample.dll
+E:\System IO Samples\21- download from web\DownloadSample\DownloadSample\obj\Debug\net6.0\DownloadSample.pdb
+E:\System IO Samples\21- download from web\DownloadSample\DownloadSample\obj\Debug\net6.0\DownloadSample.genruntimeconfig.cache

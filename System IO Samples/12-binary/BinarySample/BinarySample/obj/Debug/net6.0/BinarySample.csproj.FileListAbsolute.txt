@@ -1,0 +1,14 @@
+E:\System IO Samples\12-binary\BinarySample\BinarySample\bin\Debug\net6.0\BinarySample.exe
+E:\System IO Samples\12-binary\BinarySample\BinarySample\bin\Debug\net6.0\BinarySample.deps.json
+E:\System IO Samples\12-binary\BinarySample\BinarySample\bin\Debug\net6.0\BinarySample.runtimeconfig.json
+E:\System IO Samples\12-binary\BinarySample\BinarySample\bin\Debug\net6.0\BinarySample.dll
+E:\System IO Samples\12-binary\BinarySample\BinarySample\bin\Debug\net6.0\ref\BinarySample.dll
+E:\System IO Samples\12-binary\BinarySample\BinarySample\bin\Debug\net6.0\BinarySample.pdb
+E:\System IO Samples\12-binary\BinarySample\BinarySample\obj\Debug\net6.0\BinarySample.GeneratedMSBuildEditorConfig.editorconfig
+E:\System IO Samples\12-binary\BinarySample\BinarySample\obj\Debug\net6.0\BinarySample.AssemblyInfoInputs.cache
+E:\System IO Samples\12-binary\BinarySample\BinarySample\obj\Debug\net6.0\BinarySample.AssemblyInfo.cs
+E:\System IO Samples\12-binary\BinarySample\BinarySample\obj\Debug\net6.0\BinarySample.csproj.CoreCompileInputs.cache
+E:\System IO Samples\12-binary\BinarySample\BinarySample\obj\Debug\net6.0\BinarySample.dll
+E:\System IO Samples\12-binary\BinarySample\BinarySample\obj\Debug\net6.0\ref\BinarySample.dll
+E:\System IO Samples\12-binary\BinarySample\BinarySample\obj\Debug\net6.0\BinarySample.pdb
+E:\System IO Samples\12-binary\BinarySample\BinarySample\obj\Debug\net6.0\BinarySample.genruntimeconfig.cache

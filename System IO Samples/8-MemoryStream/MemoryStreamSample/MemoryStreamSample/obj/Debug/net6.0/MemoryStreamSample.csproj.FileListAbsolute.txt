@@ -1,0 +1,15 @@
+E:\System IO Samples\8-MemoryStream\MemoryStreamSample\MemoryStreamSample\bin\Debug\net6.0\MemoryStreamSample.exe
+E:\System IO Samples\8-MemoryStream\MemoryStreamSample\MemoryStreamSample\bin\Debug\net6.0\MemoryStreamSample.deps.json
+E:\System IO Samples\8-MemoryStream\MemoryStreamSample\MemoryStreamSample\bin\Debug\net6.0\MemoryStreamSample.runtimeconfig.json
+E:\System IO Samples\8-MemoryStream\MemoryStreamSample\MemoryStreamSample\bin\Debug\net6.0\MemoryStreamSample.dll
+E:\System IO Samples\8-MemoryStream\MemoryStreamSample\MemoryStreamSample\bin\Debug\net6.0\ref\MemoryStreamSample.dll
+E:\System IO Samples\8-MemoryStream\MemoryStreamSample\MemoryStreamSample\bin\Debug\net6.0\MemoryStreamSample.pdb
+E:\System IO Samples\8-MemoryStream\MemoryStreamSample\MemoryStreamSample\obj\Debug\net6.0\MemoryStreamSample.csproj.AssemblyReference.cache
+E:\System IO Samples\8-MemoryStream\MemoryStreamSample\MemoryStreamSample\obj\Debug\net6.0\MemoryStreamSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\System IO Samples\8-MemoryStream\MemoryStreamSample\MemoryStreamSample\obj\Debug\net6.0\MemoryStreamSample.AssemblyInfoInputs.cache
+E:\System IO Samples\8-MemoryStream\MemoryStreamSample\MemoryStreamSample\obj\Debug\net6.0\MemoryStreamSample.AssemblyInfo.cs
+E:\System IO Samples\8-MemoryStream\MemoryStreamSample\MemoryStreamSample\obj\Debug\net6.0\MemoryStreamSample.csproj.CoreCompileInputs.cache
+E:\System IO Samples\8-MemoryStream\MemoryStreamSample\MemoryStreamSample\obj\Debug\net6.0\MemoryStreamSample.dll
+E:\System IO Samples\8-MemoryStream\MemoryStreamSample\MemoryStreamSample\obj\Debug\net6.0\ref\MemoryStreamSample.dll
+E:\System IO Samples\8-MemoryStream\MemoryStreamSample\MemoryStreamSample\obj\Debug\net6.0\MemoryStreamSample.pdb
+E:\System IO Samples\8-MemoryStream\MemoryStreamSample\MemoryStreamSample\obj\Debug\net6.0\MemoryStreamSample.genruntimeconfig.cache

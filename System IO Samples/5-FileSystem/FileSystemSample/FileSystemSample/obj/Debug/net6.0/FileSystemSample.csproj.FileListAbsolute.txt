@@ -1,0 +1,15 @@
+E:\System IO Samples\5-FileSystem\FileSystemSample\FileSystemSample\bin\Debug\net6.0\FileSystemSample.exe
+E:\System IO Samples\5-FileSystem\FileSystemSample\FileSystemSample\bin\Debug\net6.0\FileSystemSample.deps.json
+E:\System IO Samples\5-FileSystem\FileSystemSample\FileSystemSample\bin\Debug\net6.0\FileSystemSample.runtimeconfig.json
+E:\System IO Samples\5-FileSystem\FileSystemSample\FileSystemSample\bin\Debug\net6.0\FileSystemSample.dll
+E:\System IO Samples\5-FileSystem\FileSystemSample\FileSystemSample\bin\Debug\net6.0\ref\FileSystemSample.dll
+E:\System IO Samples\5-FileSystem\FileSystemSample\FileSystemSample\bin\Debug\net6.0\FileSystemSample.pdb
+E:\System IO Samples\5-FileSystem\FileSystemSample\FileSystemSample\obj\Debug\net6.0\FileSystemSample.csproj.AssemblyReference.cache
+E:\System IO Samples\5-FileSystem\FileSystemSample\FileSystemSample\obj\Debug\net6.0\FileSystemSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\System IO Samples\5-FileSystem\FileSystemSample\FileSystemSample\obj\Debug\net6.0\FileSystemSample.AssemblyInfoInputs.cache
+E:\System IO Samples\5-FileSystem\FileSystemSample\FileSystemSample\obj\Debug\net6.0\FileSystemSample.AssemblyInfo.cs
+E:\System IO Samples\5-FileSystem\FileSystemSample\FileSystemSample\obj\Debug\net6.0\FileSystemSample.csproj.CoreCompileInputs.cache
+E:\System IO Samples\5-FileSystem\FileSystemSample\FileSystemSample\obj\Debug\net6.0\FileSystemSample.dll
+E:\System IO Samples\5-FileSystem\FileSystemSample\FileSystemSample\obj\Debug\net6.0\ref\FileSystemSample.dll
+E:\System IO Samples\5-FileSystem\FileSystemSample\FileSystemSample\obj\Debug\net6.0\FileSystemSample.pdb
+E:\System IO Samples\5-FileSystem\FileSystemSample\FileSystemSample\obj\Debug\net6.0\FileSystemSample.genruntimeconfig.cache

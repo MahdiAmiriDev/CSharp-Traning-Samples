@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a0d2da28-bf86-4bf0-8d11-07c65fdb20f7": {
+      "ProjectGuid": "a0d2da28-bf86-4bf0-8d11-07c65fdb20f7",
+      "DisplayName": "StreamReaderWriterone",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

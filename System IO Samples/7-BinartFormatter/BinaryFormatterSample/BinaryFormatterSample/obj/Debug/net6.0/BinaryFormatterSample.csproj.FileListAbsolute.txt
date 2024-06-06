@@ -1,0 +1,15 @@
+E:\System IO Samples\7-BinartFormatter\BinaryFormatterSample\BinaryFormatterSample\bin\Debug\net6.0\BinaryFormatterSample.exe
+E:\System IO Samples\7-BinartFormatter\BinaryFormatterSample\BinaryFormatterSample\bin\Debug\net6.0\BinaryFormatterSample.deps.json
+E:\System IO Samples\7-BinartFormatter\BinaryFormatterSample\BinaryFormatterSample\bin\Debug\net6.0\BinaryFormatterSample.runtimeconfig.json
+E:\System IO Samples\7-BinartFormatter\BinaryFormatterSample\BinaryFormatterSample\bin\Debug\net6.0\BinaryFormatterSample.dll
+E:\System IO Samples\7-BinartFormatter\BinaryFormatterSample\BinaryFormatterSample\bin\Debug\net6.0\ref\BinaryFormatterSample.dll
+E:\System IO Samples\7-BinartFormatter\BinaryFormatterSample\BinaryFormatterSample\bin\Debug\net6.0\BinaryFormatterSample.pdb
+E:\System IO Samples\7-BinartFormatter\BinaryFormatterSample\BinaryFormatterSample\obj\Debug\net6.0\BinaryFormatterSample.csproj.AssemblyReference.cache
+E:\System IO Samples\7-BinartFormatter\BinaryFormatterSample\BinaryFormatterSample\obj\Debug\net6.0\BinaryFormatterSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\System IO Samples\7-BinartFormatter\BinaryFormatterSample\BinaryFormatterSample\obj\Debug\net6.0\BinaryFormatterSample.AssemblyInfoInputs.cache
+E:\System IO Samples\7-BinartFormatter\BinaryFormatterSample\BinaryFormatterSample\obj\Debug\net6.0\BinaryFormatterSample.AssemblyInfo.cs
+E:\System IO Samples\7-BinartFormatter\BinaryFormatterSample\BinaryFormatterSample\obj\Debug\net6.0\BinaryFormatterSample.csproj.CoreCompileInputs.cache
+E:\System IO Samples\7-BinartFormatter\BinaryFormatterSample\BinaryFormatterSample\obj\Debug\net6.0\BinaryFormatterSample.dll
+E:\System IO Samples\7-BinartFormatter\BinaryFormatterSample\BinaryFormatterSample\obj\Debug\net6.0\ref\BinaryFormatterSample.dll
+E:\System IO Samples\7-BinartFormatter\BinaryFormatterSample\BinaryFormatterSample\obj\Debug\net6.0\BinaryFormatterSample.pdb
+E:\System IO Samples\7-BinartFormatter\BinaryFormatterSample\BinaryFormatterSample\obj\Debug\net6.0\BinaryFormatterSample.genruntimeconfig.cache

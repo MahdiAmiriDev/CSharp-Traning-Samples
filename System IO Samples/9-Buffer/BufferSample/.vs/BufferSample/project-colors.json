@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25d01386-7d8c-4b35-936f-56c66c10df27": {
+      "ProjectGuid": "25d01386-7d8c-4b35-936f-56c66c10df27",
+      "DisplayName": "BufferSample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

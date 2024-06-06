@@ -1,0 +1,30 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <h2>this is simple file uploader</h2>
+</div>
+
+<div class="container">
+<div class="mb-3 mt-3">
+    <form method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label class="form-label">Upload File</label>
+            <input type="file" name="file" class="form-control"/>
+        </div>
+        <div class="mb-3">
+            <button type="submit" class="btn btn-primary">upload</button>
+        </div>
+    </form>
+</div>
+<dvi>
+        @if (!string.IsNullOrWhiteSpace(Model.FilePath))
+        {
+         <img src="@Model.FilePath" />   
+        }        
+</dvi>
+</div>

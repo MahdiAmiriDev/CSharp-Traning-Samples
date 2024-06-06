@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6c03a5d0-f512-410c-b3b0-acee4e458efe": {
+      "ProjectGuid": "6c03a5d0-f512-410c-b3b0-acee4e458efe",
+      "DisplayName": "MemoryStreamSample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

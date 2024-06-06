@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StreamReaderWriterone/1.0.0": {
+        "runtime": {
+          "StreamReaderWriterone.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StreamReaderWriterone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

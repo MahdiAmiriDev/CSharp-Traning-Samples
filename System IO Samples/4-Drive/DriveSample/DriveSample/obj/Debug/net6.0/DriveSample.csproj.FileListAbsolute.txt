@@ -1,0 +1,15 @@
+E:\System IO Samples\4-Drive\DriveSample\DriveSample\bin\Debug\net6.0\DriveSample.exe
+E:\System IO Samples\4-Drive\DriveSample\DriveSample\bin\Debug\net6.0\DriveSample.deps.json
+E:\System IO Samples\4-Drive\DriveSample\DriveSample\bin\Debug\net6.0\DriveSample.runtimeconfig.json
+E:\System IO Samples\4-Drive\DriveSample\DriveSample\bin\Debug\net6.0\DriveSample.dll
+E:\System IO Samples\4-Drive\DriveSample\DriveSample\bin\Debug\net6.0\ref\DriveSample.dll
+E:\System IO Samples\4-Drive\DriveSample\DriveSample\bin\Debug\net6.0\DriveSample.pdb
+E:\System IO Samples\4-Drive\DriveSample\DriveSample\obj\Debug\net6.0\DriveSample.csproj.AssemblyReference.cache
+E:\System IO Samples\4-Drive\DriveSample\DriveSample\obj\Debug\net6.0\DriveSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\System IO Samples\4-Drive\DriveSample\DriveSample\obj\Debug\net6.0\DriveSample.AssemblyInfoInputs.cache
+E:\System IO Samples\4-Drive\DriveSample\DriveSample\obj\Debug\net6.0\DriveSample.AssemblyInfo.cs
+E:\System IO Samples\4-Drive\DriveSample\DriveSample\obj\Debug\net6.0\DriveSample.csproj.CoreCompileInputs.cache
+E:\System IO Samples\4-Drive\DriveSample\DriveSample\obj\Debug\net6.0\DriveSample.dll
+E:\System IO Samples\4-Drive\DriveSample\DriveSample\obj\Debug\net6.0\ref\DriveSample.dll
+E:\System IO Samples\4-Drive\DriveSample\DriveSample\obj\Debug\net6.0\DriveSample.pdb
+E:\System IO Samples\4-Drive\DriveSample\DriveSample\obj\Debug\net6.0\DriveSample.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\System IO Samples\2-Directory\DirectorySample\DirectorySample\bin\Debug\net6.0\DirectorySample.exe
+E:\System IO Samples\2-Directory\DirectorySample\DirectorySample\bin\Debug\net6.0\DirectorySample.deps.json
+E:\System IO Samples\2-Directory\DirectorySample\DirectorySample\bin\Debug\net6.0\DirectorySample.runtimeconfig.json
+E:\System IO Samples\2-Directory\DirectorySample\DirectorySample\bin\Debug\net6.0\DirectorySample.dll
+E:\System IO Samples\2-Directory\DirectorySample\DirectorySample\bin\Debug\net6.0\ref\DirectorySample.dll
+E:\System IO Samples\2-Directory\DirectorySample\DirectorySample\bin\Debug\net6.0\DirectorySample.pdb
+E:\System IO Samples\2-Directory\DirectorySample\DirectorySample\obj\Debug\net6.0\DirectorySample.csproj.AssemblyReference.cache
+E:\System IO Samples\2-Directory\DirectorySample\DirectorySample\obj\Debug\net6.0\DirectorySample.GeneratedMSBuildEditorConfig.editorconfig
+E:\System IO Samples\2-Directory\DirectorySample\DirectorySample\obj\Debug\net6.0\DirectorySample.AssemblyInfoInputs.cache
+E:\System IO Samples\2-Directory\DirectorySample\DirectorySample\obj\Debug\net6.0\DirectorySample.AssemblyInfo.cs
+E:\System IO Samples\2-Directory\DirectorySample\DirectorySample\obj\Debug\net6.0\DirectorySample.csproj.CoreCompileInputs.cache
+E:\System IO Samples\2-Directory\DirectorySample\DirectorySample\obj\Debug\net6.0\DirectorySample.dll
+E:\System IO Samples\2-Directory\DirectorySample\DirectorySample\obj\Debug\net6.0\ref\DirectorySample.dll
+E:\System IO Samples\2-Directory\DirectorySample\DirectorySample\obj\Debug\net6.0\DirectorySample.pdb
+E:\System IO Samples\2-Directory\DirectorySample\DirectorySample\obj\Debug\net6.0\DirectorySample.genruntimeconfig.cache
