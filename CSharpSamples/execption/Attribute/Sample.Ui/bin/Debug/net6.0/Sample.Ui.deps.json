@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sample.Ui/1.0.0": {
+        "dependencies": {
+          "Sample.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Sample.Ui.dll": {}
+        }
+      },
+      "AutoScanAttribute/1.0.0": {
+        "runtime": {
+          "AutoScanAttribute.dll": {}
+        }
+      },
+      "Sample.Domain/1.0.0": {
+        "dependencies": {
+          "AutoScanAttribute": "1.0.0"
+        },
+        "runtime": {
+          "Sample.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sample.Ui/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoScanAttribute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sample.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

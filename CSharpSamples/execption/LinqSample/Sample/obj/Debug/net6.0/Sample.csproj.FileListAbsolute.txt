@@ -1,0 +1,15 @@
+E:\Ef Core Learning And Traning\execption\LinqSample\Sample\bin\Debug\net6.0\Sample.exe
+E:\Ef Core Learning And Traning\execption\LinqSample\Sample\bin\Debug\net6.0\Sample.deps.json
+E:\Ef Core Learning And Traning\execption\LinqSample\Sample\bin\Debug\net6.0\Sample.runtimeconfig.json
+E:\Ef Core Learning And Traning\execption\LinqSample\Sample\bin\Debug\net6.0\Sample.dll
+E:\Ef Core Learning And Traning\execption\LinqSample\Sample\bin\Debug\net6.0\ref\Sample.dll
+E:\Ef Core Learning And Traning\execption\LinqSample\Sample\bin\Debug\net6.0\Sample.pdb
+E:\Ef Core Learning And Traning\execption\LinqSample\Sample\obj\Debug\net6.0\Sample.csproj.AssemblyReference.cache
+E:\Ef Core Learning And Traning\execption\LinqSample\Sample\obj\Debug\net6.0\Sample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ef Core Learning And Traning\execption\LinqSample\Sample\obj\Debug\net6.0\Sample.AssemblyInfoInputs.cache
+E:\Ef Core Learning And Traning\execption\LinqSample\Sample\obj\Debug\net6.0\Sample.AssemblyInfo.cs
+E:\Ef Core Learning And Traning\execption\LinqSample\Sample\obj\Debug\net6.0\Sample.csproj.CoreCompileInputs.cache
+E:\Ef Core Learning And Traning\execption\LinqSample\Sample\obj\Debug\net6.0\Sample.dll
+E:\Ef Core Learning And Traning\execption\LinqSample\Sample\obj\Debug\net6.0\ref\Sample.dll
+E:\Ef Core Learning And Traning\execption\LinqSample\Sample\obj\Debug\net6.0\Sample.pdb
+E:\Ef Core Learning And Traning\execption\LinqSample\Sample\obj\Debug\net6.0\Sample.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\Ef Core Learning And Traning\operators\operators\operators\bin\Debug\net6.0\operators.exe
+E:\Ef Core Learning And Traning\operators\operators\operators\bin\Debug\net6.0\operators.deps.json
+E:\Ef Core Learning And Traning\operators\operators\operators\bin\Debug\net6.0\operators.runtimeconfig.json
+E:\Ef Core Learning And Traning\operators\operators\operators\bin\Debug\net6.0\operators.dll
+E:\Ef Core Learning And Traning\operators\operators\operators\bin\Debug\net6.0\ref\operators.dll
+E:\Ef Core Learning And Traning\operators\operators\operators\bin\Debug\net6.0\operators.pdb
+E:\Ef Core Learning And Traning\operators\operators\operators\obj\Debug\net6.0\operators.csproj.AssemblyReference.cache
+E:\Ef Core Learning And Traning\operators\operators\operators\obj\Debug\net6.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ef Core Learning And Traning\operators\operators\operators\obj\Debug\net6.0\operators.AssemblyInfoInputs.cache
+E:\Ef Core Learning And Traning\operators\operators\operators\obj\Debug\net6.0\operators.AssemblyInfo.cs
+E:\Ef Core Learning And Traning\operators\operators\operators\obj\Debug\net6.0\operators.csproj.CoreCompileInputs.cache
+E:\Ef Core Learning And Traning\operators\operators\operators\obj\Debug\net6.0\operators.dll
+E:\Ef Core Learning And Traning\operators\operators\operators\obj\Debug\net6.0\ref\operators.dll
+E:\Ef Core Learning And Traning\operators\operators\operators\obj\Debug\net6.0\operators.pdb
+E:\Ef Core Learning And Traning\operators\operators\operators\obj\Debug\net6.0\operators.genruntimeconfig.cache

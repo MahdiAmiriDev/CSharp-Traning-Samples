@@ -1,0 +1,15 @@
+E:\Ef Core Learning And Traning\execption\Attribute\LoadAssemblySample\bin\Debug\net6.0\LoadAssemblySample.exe
+E:\Ef Core Learning And Traning\execption\Attribute\LoadAssemblySample\bin\Debug\net6.0\LoadAssemblySample.deps.json
+E:\Ef Core Learning And Traning\execption\Attribute\LoadAssemblySample\bin\Debug\net6.0\LoadAssemblySample.runtimeconfig.json
+E:\Ef Core Learning And Traning\execption\Attribute\LoadAssemblySample\bin\Debug\net6.0\LoadAssemblySample.dll
+E:\Ef Core Learning And Traning\execption\Attribute\LoadAssemblySample\bin\Debug\net6.0\ref\LoadAssemblySample.dll
+E:\Ef Core Learning And Traning\execption\Attribute\LoadAssemblySample\bin\Debug\net6.0\LoadAssemblySample.pdb
+E:\Ef Core Learning And Traning\execption\Attribute\LoadAssemblySample\obj\Debug\net6.0\LoadAssemblySample.csproj.AssemblyReference.cache
+E:\Ef Core Learning And Traning\execption\Attribute\LoadAssemblySample\obj\Debug\net6.0\LoadAssemblySample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ef Core Learning And Traning\execption\Attribute\LoadAssemblySample\obj\Debug\net6.0\LoadAssemblySample.AssemblyInfoInputs.cache
+E:\Ef Core Learning And Traning\execption\Attribute\LoadAssemblySample\obj\Debug\net6.0\LoadAssemblySample.AssemblyInfo.cs
+E:\Ef Core Learning And Traning\execption\Attribute\LoadAssemblySample\obj\Debug\net6.0\LoadAssemblySample.csproj.CoreCompileInputs.cache
+E:\Ef Core Learning And Traning\execption\Attribute\LoadAssemblySample\obj\Debug\net6.0\LoadAssemblySample.dll
+E:\Ef Core Learning And Traning\execption\Attribute\LoadAssemblySample\obj\Debug\net6.0\ref\LoadAssemblySample.dll
+E:\Ef Core Learning And Traning\execption\Attribute\LoadAssemblySample\obj\Debug\net6.0\LoadAssemblySample.pdb
+E:\Ef Core Learning And Traning\execption\Attribute\LoadAssemblySample\obj\Debug\net6.0\LoadAssemblySample.genruntimeconfig.cache

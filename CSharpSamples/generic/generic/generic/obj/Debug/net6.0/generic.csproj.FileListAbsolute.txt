@@ -1,0 +1,15 @@
+E:\Ef Core Learning And Traning\generic\generic\generic\bin\Debug\net6.0\generic.exe
+E:\Ef Core Learning And Traning\generic\generic\generic\bin\Debug\net6.0\generic.deps.json
+E:\Ef Core Learning And Traning\generic\generic\generic\bin\Debug\net6.0\generic.runtimeconfig.json
+E:\Ef Core Learning And Traning\generic\generic\generic\bin\Debug\net6.0\generic.dll
+E:\Ef Core Learning And Traning\generic\generic\generic\bin\Debug\net6.0\ref\generic.dll
+E:\Ef Core Learning And Traning\generic\generic\generic\bin\Debug\net6.0\generic.pdb
+E:\Ef Core Learning And Traning\generic\generic\generic\obj\Debug\net6.0\generic.csproj.AssemblyReference.cache
+E:\Ef Core Learning And Traning\generic\generic\generic\obj\Debug\net6.0\generic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ef Core Learning And Traning\generic\generic\generic\obj\Debug\net6.0\generic.AssemblyInfoInputs.cache
+E:\Ef Core Learning And Traning\generic\generic\generic\obj\Debug\net6.0\generic.AssemblyInfo.cs
+E:\Ef Core Learning And Traning\generic\generic\generic\obj\Debug\net6.0\generic.csproj.CoreCompileInputs.cache
+E:\Ef Core Learning And Traning\generic\generic\generic\obj\Debug\net6.0\generic.dll
+E:\Ef Core Learning And Traning\generic\generic\generic\obj\Debug\net6.0\ref\generic.dll
+E:\Ef Core Learning And Traning\generic\generic\generic\obj\Debug\net6.0\generic.pdb
+E:\Ef Core Learning And Traning\generic\generic\generic\obj\Debug\net6.0\generic.genruntimeconfig.cache

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f2c9e101-5e34-4155-ba6e-0f3d7ec94193": {
+      "ProjectGuid": "f2c9e101-5e34-4155-ba6e-0f3d7ec94193",
+      "DisplayName": "Sample.Ui",
+      "ColorIndex": 0
+    },
+    "645d214a-8082-4212-b13d-5d7f2372ff67": {
+      "ProjectGuid": "645d214a-8082-4212-b13d-5d7f2372ff67",
+      "DisplayName": "Sample.Domain",
+      "ColorIndex": 1
+    },
+    "78db302f-d5e2-4c40-992f-c9d6d30fffc5": {
+      "ProjectGuid": "78db302f-d5e2-4c40-992f-c9d6d30fffc5",
+      "DisplayName": "AutoScanAttribute",
+      "ColorIndex": 2
+    },
+    "50790c5a-3cdd-4801-9c34-fc872a2429d2": {
+      "ProjectGuid": "50790c5a-3cdd-4801-9c34-fc872a2429d2",
+      "DisplayName": "AttributeSample.Reflection.Ui",
+      "ColorIndex": 3
+    },
+    "d8fb91be-0157-4328-8fa8-f1a581ed93bb": {
+      "ProjectGuid": "d8fb91be-0157-4328-8fa8-f1a581ed93bb",
+      "DisplayName": "AttributeSample.DiscoveringMetaData",
+      "ColorIndex": 4
+    },
+    "9c7a3067-8dbf-4538-94de-2ca8090d3d2c": {
+      "ProjectGuid": "9c7a3067-8dbf-4538-94de-2ca8090d3d2c",
+      "DisplayName": "LoadAssemblySample",
+      "ColorIndex": 5
+    },
+    "7877308d-32b5-49c2-a2a3-c1cbaa83f217": {
+      "ProjectGuid": "7877308d-32b5-49c2-a2a3-c1cbaa83f217",
+      "DisplayName": "LateBinding",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

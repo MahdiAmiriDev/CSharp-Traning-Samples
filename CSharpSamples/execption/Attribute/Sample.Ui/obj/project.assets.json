@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AutoScanAttribute/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AutoScanAttribute.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AutoScanAttribute.dll": {}
+        }
+      },
+      "Sample.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AutoScanAttribute": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Sample.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sample.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoScanAttribute/1.0.0": {
+      "type": "project",
+      "path": "../AutoScanAttribute/AutoScanAttribute.csproj",
+      "msbuildProject": "../AutoScanAttribute/AutoScanAttribute.csproj"
+    },
+    "Sample.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Sample.Domain/Sample.Domain.csproj",
+      "msbuildProject": "../Sample.Domain/Sample.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Sample.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pc\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Ef Core Learning And Traning\\execption\\Attribute\\Sample.Ui\\Sample.Ui.csproj",
+      "projectName": "Sample.Ui",
+      "projectPath": "E:\\Ef Core Learning And Traning\\execption\\Attribute\\Sample.Ui\\Sample.Ui.csproj",
+      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "outputPath": "E:\\Ef Core Learning And Traning\\execption\\Attribute\\Sample.Ui\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\Ef Core Learning And Traning\\execption\\Attribute\\Sample.Domain\\Sample.Domain.csproj": {
+              "projectPath": "E:\\Ef Core Learning And Traning\\execption\\Attribute\\Sample.Domain\\Sample.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.320\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

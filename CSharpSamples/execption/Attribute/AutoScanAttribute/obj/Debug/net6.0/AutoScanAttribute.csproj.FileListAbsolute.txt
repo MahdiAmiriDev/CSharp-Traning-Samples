@@ -1,0 +1,12 @@
+E:\Ef Core Learning And Traning\execption\Attribute\AutoScanAttribute\bin\Debug\net6.0\AutoScanAttribute.deps.json
+E:\Ef Core Learning And Traning\execption\Attribute\AutoScanAttribute\bin\Debug\net6.0\AutoScanAttribute.dll
+E:\Ef Core Learning And Traning\execption\Attribute\AutoScanAttribute\bin\Debug\net6.0\ref\AutoScanAttribute.dll
+E:\Ef Core Learning And Traning\execption\Attribute\AutoScanAttribute\bin\Debug\net6.0\AutoScanAttribute.pdb
+E:\Ef Core Learning And Traning\execption\Attribute\AutoScanAttribute\obj\Debug\net6.0\AutoScanAttribute.csproj.AssemblyReference.cache
+E:\Ef Core Learning And Traning\execption\Attribute\AutoScanAttribute\obj\Debug\net6.0\AutoScanAttribute.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ef Core Learning And Traning\execption\Attribute\AutoScanAttribute\obj\Debug\net6.0\AutoScanAttribute.AssemblyInfoInputs.cache
+E:\Ef Core Learning And Traning\execption\Attribute\AutoScanAttribute\obj\Debug\net6.0\AutoScanAttribute.AssemblyInfo.cs
+E:\Ef Core Learning And Traning\execption\Attribute\AutoScanAttribute\obj\Debug\net6.0\AutoScanAttribute.csproj.CoreCompileInputs.cache
+E:\Ef Core Learning And Traning\execption\Attribute\AutoScanAttribute\obj\Debug\net6.0\AutoScanAttribute.dll
+E:\Ef Core Learning And Traning\execption\Attribute\AutoScanAttribute\obj\Debug\net6.0\ref\AutoScanAttribute.dll
+E:\Ef Core Learning And Traning\execption\Attribute\AutoScanAttribute\obj\Debug\net6.0\AutoScanAttribute.pdb

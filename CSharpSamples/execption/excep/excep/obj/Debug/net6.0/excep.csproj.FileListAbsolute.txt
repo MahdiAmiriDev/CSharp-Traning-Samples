@@ -1,0 +1,15 @@
+E:\Ef Core Learning And Traning\execption\excep\excep\bin\Debug\net6.0\excep.exe
+E:\Ef Core Learning And Traning\execption\excep\excep\bin\Debug\net6.0\excep.deps.json
+E:\Ef Core Learning And Traning\execption\excep\excep\bin\Debug\net6.0\excep.runtimeconfig.json
+E:\Ef Core Learning And Traning\execption\excep\excep\bin\Debug\net6.0\excep.dll
+E:\Ef Core Learning And Traning\execption\excep\excep\bin\Debug\net6.0\ref\excep.dll
+E:\Ef Core Learning And Traning\execption\excep\excep\bin\Debug\net6.0\excep.pdb
+E:\Ef Core Learning And Traning\execption\excep\excep\obj\Debug\net6.0\excep.csproj.AssemblyReference.cache
+E:\Ef Core Learning And Traning\execption\excep\excep\obj\Debug\net6.0\excep.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ef Core Learning And Traning\execption\excep\excep\obj\Debug\net6.0\excep.AssemblyInfoInputs.cache
+E:\Ef Core Learning And Traning\execption\excep\excep\obj\Debug\net6.0\excep.AssemblyInfo.cs
+E:\Ef Core Learning And Traning\execption\excep\excep\obj\Debug\net6.0\excep.csproj.CoreCompileInputs.cache
+E:\Ef Core Learning And Traning\execption\excep\excep\obj\Debug\net6.0\excep.dll
+E:\Ef Core Learning And Traning\execption\excep\excep\obj\Debug\net6.0\ref\excep.dll
+E:\Ef Core Learning And Traning\execption\excep\excep\obj\Debug\net6.0\excep.pdb
+E:\Ef Core Learning And Traning\execption\excep\excep\obj\Debug\net6.0\excep.genruntimeconfig.cache
