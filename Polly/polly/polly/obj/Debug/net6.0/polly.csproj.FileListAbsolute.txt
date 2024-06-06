@@ -1,0 +1,15 @@
+E:\Ef Core Learning And Traning\pollytest\polly\polly\bin\Debug\net6.0\polly.exe
+E:\Ef Core Learning And Traning\pollytest\polly\polly\bin\Debug\net6.0\polly.deps.json
+E:\Ef Core Learning And Traning\pollytest\polly\polly\bin\Debug\net6.0\polly.runtimeconfig.json
+E:\Ef Core Learning And Traning\pollytest\polly\polly\bin\Debug\net6.0\polly.dll
+E:\Ef Core Learning And Traning\pollytest\polly\polly\bin\Debug\net6.0\ref\polly.dll
+E:\Ef Core Learning And Traning\pollytest\polly\polly\bin\Debug\net6.0\polly.pdb
+E:\Ef Core Learning And Traning\pollytest\polly\polly\obj\Debug\net6.0\polly.csproj.AssemblyReference.cache
+E:\Ef Core Learning And Traning\pollytest\polly\polly\obj\Debug\net6.0\polly.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ef Core Learning And Traning\pollytest\polly\polly\obj\Debug\net6.0\polly.AssemblyInfoInputs.cache
+E:\Ef Core Learning And Traning\pollytest\polly\polly\obj\Debug\net6.0\polly.AssemblyInfo.cs
+E:\Ef Core Learning And Traning\pollytest\polly\polly\obj\Debug\net6.0\polly.csproj.CoreCompileInputs.cache
+E:\Ef Core Learning And Traning\pollytest\polly\polly\obj\Debug\net6.0\polly.dll
+E:\Ef Core Learning And Traning\pollytest\polly\polly\obj\Debug\net6.0\ref\polly.dll
+E:\Ef Core Learning And Traning\pollytest\polly\polly\obj\Debug\net6.0\polly.pdb
+E:\Ef Core Learning And Traning\pollytest\polly\polly\obj\Debug\net6.0\polly.genruntimeconfig.cache
