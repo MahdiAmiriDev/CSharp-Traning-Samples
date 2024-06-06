@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "zE/w95xDCgzMyCLY5K12r42Bl4zJwzO8AveSdMDIBYM=",
+  "Source": "UsefullMiddleWear.StaticFile",
+  "BasePath": "_content/UsefullMiddleWear.StaticFile",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UsefullMiddleWear.StaticFile\\wwwroot",
+      "Source": "UsefullMiddleWear.StaticFile",
+      "ContentRoot": "E:\\NikAmooz Samples\\Asp .Net Core  Samples\\4-useful middlewear\\UserfullMiddleWear\\UsefullMiddleWear.StaticFile\\wwwroot\\",
+      "BasePath": "_content/UsefullMiddleWear.StaticFile",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\NikAmooz Samples\\Asp .Net Core  Samples\\4-useful middlewear\\UserfullMiddleWear\\UsefullMiddleWear.StaticFile\\wwwroot\\htmlpage.html",
+      "SourceId": "UsefullMiddleWear.StaticFile",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\NikAmooz Samples\\Asp .Net Core  Samples\\4-useful middlewear\\UserfullMiddleWear\\UsefullMiddleWear.StaticFile\\wwwroot\\",
+      "BasePath": "_content/UsefullMiddleWear.StaticFile",
+      "RelativePath": "htmlpage.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\htmlpage.html"
+    }
+  ]
+}

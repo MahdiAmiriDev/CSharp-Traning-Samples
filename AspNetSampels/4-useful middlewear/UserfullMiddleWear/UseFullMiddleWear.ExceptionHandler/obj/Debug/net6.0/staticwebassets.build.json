@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "HmS7YK4drfcgQz+G46Qp0DC4HyJuNGPy4tHEFnMWeYQ=",
+  "Source": "UseFullMiddleWear.ExceptionHandler",
+  "BasePath": "_content/UseFullMiddleWear.ExceptionHandler",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UseFullMiddleWear.ExceptionHandler\\wwwroot",
+      "Source": "UseFullMiddleWear.ExceptionHandler",
+      "ContentRoot": "E:\\NikAmooz Samples\\Asp .Net Core  Samples\\4-useful middlewear\\UserfullMiddleWear\\UseFullMiddleWear.ExceptionHandler\\wwwroot\\",
+      "BasePath": "_content/UseFullMiddleWear.ExceptionHandler",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\NikAmooz Samples\\Asp .Net Core  Samples\\4-useful middlewear\\UserfullMiddleWear\\UseFullMiddleWear.ExceptionHandler\\wwwroot\\error.html",
+      "SourceId": "UseFullMiddleWear.ExceptionHandler",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\NikAmooz Samples\\Asp .Net Core  Samples\\4-useful middlewear\\UserfullMiddleWear\\UseFullMiddleWear.ExceptionHandler\\wwwroot\\",
+      "BasePath": "_content/UseFullMiddleWear.ExceptionHandler",
+      "RelativePath": "error.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\error.html"
+    }
+  ]
+}

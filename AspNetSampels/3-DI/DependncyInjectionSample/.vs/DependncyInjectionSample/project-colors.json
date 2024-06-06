@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1a2a2190-4570-416a-a821-e5bb90a5fc41": {
+      "ProjectGuid": "1a2a2190-4570-416a-a821-e5bb90a5fc41",
+      "DisplayName": "DependncyInjectionSample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
