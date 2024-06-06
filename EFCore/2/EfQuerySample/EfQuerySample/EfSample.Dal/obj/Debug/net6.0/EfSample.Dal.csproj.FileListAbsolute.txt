@@ -1,0 +1,17 @@
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Dal\bin\Debug\net6.0\EfSample.Dal.deps.json
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Dal\bin\Debug\net6.0\EfSample.Dal.runtimeconfig.json
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Dal\bin\Debug\net6.0\EfSample.Dal.dll
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Dal\bin\Debug\net6.0\ref\EfSample.Dal.dll
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Dal\bin\Debug\net6.0\EfSample.Dal.pdb
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Dal\bin\Debug\net6.0\EfSample.Entities.dll
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Dal\bin\Debug\net6.0\EfSample.Entities.pdb
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Dal\obj\Debug\net6.0\EfSample.Dal.csproj.AssemblyReference.cache
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Dal\obj\Debug\net6.0\EfSample.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Dal\obj\Debug\net6.0\EfSample.Dal.AssemblyInfoInputs.cache
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Dal\obj\Debug\net6.0\EfSample.Dal.AssemblyInfo.cs
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Dal\obj\Debug\net6.0\EfSample.Dal.csproj.CoreCompileInputs.cache
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Dal\obj\Debug\net6.0\EfSample.Dal.csproj.CopyComplete
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Dal\obj\Debug\net6.0\EfSample.Dal.dll
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Dal\obj\Debug\net6.0\ref\EfSample.Dal.dll
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Dal\obj\Debug\net6.0\EfSample.Dal.pdb
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Dal\obj\Debug\net6.0\EfSample.Dal.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Entities\bin\Debug\net6.0\EfSample.Entities.deps.json
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Entities\bin\Debug\net6.0\EfSample.Entities.dll
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Entities\bin\Debug\net6.0\ref\EfSample.Entities.dll
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Entities\bin\Debug\net6.0\EfSample.Entities.pdb
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Entities\obj\Debug\net6.0\EfSample.Entities.csproj.AssemblyReference.cache
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Entities\obj\Debug\net6.0\EfSample.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Entities\obj\Debug\net6.0\EfSample.Entities.AssemblyInfoInputs.cache
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Entities\obj\Debug\net6.0\EfSample.Entities.AssemblyInfo.cs
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Entities\obj\Debug\net6.0\EfSample.Entities.csproj.CoreCompileInputs.cache
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Entities\obj\Debug\net6.0\EfSample.Entities.dll
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Entities\obj\Debug\net6.0\ref\EfSample.Entities.dll
+D:\Ef Core Learning And Traning\2\EfQuerySample\EfQuerySample\EfSample.Entities\obj\Debug\net6.0\EfSample.Entities.pdb
