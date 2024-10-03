@@ -1,0 +1,15 @@
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\delegate-youtube\DelegateSample\DelegateSample\bin\Debug\net8.0\DelegateSample.exe
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\delegate-youtube\DelegateSample\DelegateSample\bin\Debug\net8.0\DelegateSample.deps.json
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\delegate-youtube\DelegateSample\DelegateSample\bin\Debug\net8.0\DelegateSample.runtimeconfig.json
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\delegate-youtube\DelegateSample\DelegateSample\bin\Debug\net8.0\DelegateSample.dll
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\delegate-youtube\DelegateSample\DelegateSample\bin\Debug\net8.0\DelegateSample.pdb
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\delegate-youtube\DelegateSample\DelegateSample\obj\Debug\net8.0\DelegateSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\delegate-youtube\DelegateSample\DelegateSample\obj\Debug\net8.0\DelegateSample.AssemblyInfoInputs.cache
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\delegate-youtube\DelegateSample\DelegateSample\obj\Debug\net8.0\DelegateSample.AssemblyInfo.cs
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\delegate-youtube\DelegateSample\DelegateSample\obj\Debug\net8.0\DelegateSample.csproj.CoreCompileInputs.cache
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\delegate-youtube\DelegateSample\DelegateSample\obj\Debug\net8.0\DelegateSample.sourcelink.json
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\delegate-youtube\DelegateSample\DelegateSample\obj\Debug\net8.0\DelegateSample.dll
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\delegate-youtube\DelegateSample\DelegateSample\obj\Debug\net8.0\refint\DelegateSample.dll
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\delegate-youtube\DelegateSample\DelegateSample\obj\Debug\net8.0\DelegateSample.pdb
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\delegate-youtube\DelegateSample\DelegateSample\obj\Debug\net8.0\DelegateSample.genruntimeconfig.cache
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\delegate-youtube\DelegateSample\DelegateSample\obj\Debug\net8.0\ref\DelegateSample.dll
