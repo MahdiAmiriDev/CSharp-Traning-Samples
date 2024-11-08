@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EfQuerySample.Hir")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d23d468fda386fb0b41704aab3cfce14992e8559")]
 [assembly: System.Reflection.AssemblyProductAttribute("EfQuerySample.Hir")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EfQuerySample.Hir")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

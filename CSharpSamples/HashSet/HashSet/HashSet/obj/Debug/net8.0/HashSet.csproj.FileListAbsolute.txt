@@ -1,0 +1,15 @@
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\HashSet\HashSet\HashSet\bin\Debug\net8.0\HashSet.exe
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\HashSet\HashSet\HashSet\bin\Debug\net8.0\HashSet.deps.json
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\HashSet\HashSet\HashSet\bin\Debug\net8.0\HashSet.runtimeconfig.json
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\HashSet\HashSet\HashSet\bin\Debug\net8.0\HashSet.dll
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\HashSet\HashSet\HashSet\bin\Debug\net8.0\HashSet.pdb
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\HashSet\HashSet\HashSet\obj\Debug\net8.0\HashSet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\HashSet\HashSet\HashSet\obj\Debug\net8.0\HashSet.AssemblyInfoInputs.cache
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\HashSet\HashSet\HashSet\obj\Debug\net8.0\HashSet.AssemblyInfo.cs
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\HashSet\HashSet\HashSet\obj\Debug\net8.0\HashSet.csproj.CoreCompileInputs.cache
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\HashSet\HashSet\HashSet\obj\Debug\net8.0\HashSet.sourcelink.json
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\HashSet\HashSet\HashSet\obj\Debug\net8.0\HashSet.dll
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\HashSet\HashSet\HashSet\obj\Debug\net8.0\refint\HashSet.dll
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\HashSet\HashSet\HashSet\obj\Debug\net8.0\HashSet.pdb
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\HashSet\HashSet\HashSet\obj\Debug\net8.0\HashSet.genruntimeconfig.cache
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\HashSet\HashSet\HashSet\obj\Debug\net8.0\ref\HashSet.dll

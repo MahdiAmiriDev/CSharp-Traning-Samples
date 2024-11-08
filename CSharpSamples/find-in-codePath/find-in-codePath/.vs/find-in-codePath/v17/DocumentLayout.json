@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\CSharpSamples\\find-in-codePath\\find-in-codePath\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA006BD-4F2F-4B7C-B088-8FE47CA90D72}|find-in-codePath\\find-in-codePath.csproj|e:\\projects\\gitsample\\csharp-traning-samples\\csharpsamples\\find-in-codepath\\find-in-codepath\\find-in-codepath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA006BD-4F2F-4B7C-B088-8FE47CA90D72}|find-in-codePath\\find-in-codePath.csproj|solutionrelative:find-in-codepath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA006BD-4F2F-4B7C-B088-8FE47CA90D72}|find-in-codePath\\find-in-codePath.csproj|e:\\projects\\gitsample\\csharp-traning-samples\\csharpsamples\\find-in-codepath\\find-in-codepath\\find-in-codepath\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA006BD-4F2F-4B7C-B088-8FE47CA90D72}|find-in-codePath\\find-in-codePath.csproj|solutionrelative:find-in-codepath\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA006BD-4F2F-4B7C-B088-8FE47CA90D72}|find-in-codePath\\find-in-codePath.csproj|e:\\projects\\gitsample\\csharp-traning-samples\\csharpsamples\\find-in-codepath\\find-in-codepath\\find-in-codepath\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA006BD-4F2F-4B7C-B088-8FE47CA90D72}|find-in-codePath\\find-in-codePath.csproj|solutionrelative:find-in-codepath\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\CSharpSamples\\find-in-codePath\\find-in-codePath\\find-in-codePath\\Program.cs",
+              "RelativeDocumentMoniker": "find-in-codePath\\Program.cs",
+              "ToolTip": "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\CSharpSamples\\find-in-codePath\\find-in-codePath\\find-in-codePath\\Program.cs",
+              "RelativeToolTip": "find-in-codePath\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:01:44.619Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Company.cs",
+              "DocumentMoniker": "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\CSharpSamples\\find-in-codePath\\find-in-codePath\\find-in-codePath\\Company.cs",
+              "RelativeDocumentMoniker": "find-in-codePath\\Company.cs",
+              "ToolTip": "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\CSharpSamples\\find-in-codePath\\find-in-codePath\\find-in-codePath\\Company.cs",
+              "RelativeToolTip": "find-in-codePath\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:49:55.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\CSharpSamples\\find-in-codePath\\find-in-codePath\\find-in-codePath\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "find-in-codePath\\AppDbContext.cs",
+              "ToolTip": "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\CSharpSamples\\find-in-codePath\\find-in-codePath\\find-in-codePath\\AppDbContext.cs",
+              "RelativeToolTip": "find-in-codePath\\AppDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:49:02.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

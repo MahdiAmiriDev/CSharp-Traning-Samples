@@ -1,0 +1,15 @@
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\ImmutableCollections\ImmutableSample\ImmutableSample\bin\Debug\net8.0\ImmutableSample.exe
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\ImmutableCollections\ImmutableSample\ImmutableSample\bin\Debug\net8.0\ImmutableSample.deps.json
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\ImmutableCollections\ImmutableSample\ImmutableSample\bin\Debug\net8.0\ImmutableSample.runtimeconfig.json
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\ImmutableCollections\ImmutableSample\ImmutableSample\bin\Debug\net8.0\ImmutableSample.dll
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\ImmutableCollections\ImmutableSample\ImmutableSample\bin\Debug\net8.0\ImmutableSample.pdb
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\ImmutableCollections\ImmutableSample\ImmutableSample\obj\Debug\net8.0\ImmutableSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\ImmutableCollections\ImmutableSample\ImmutableSample\obj\Debug\net8.0\ImmutableSample.AssemblyInfoInputs.cache
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\ImmutableCollections\ImmutableSample\ImmutableSample\obj\Debug\net8.0\ImmutableSample.AssemblyInfo.cs
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\ImmutableCollections\ImmutableSample\ImmutableSample\obj\Debug\net8.0\ImmutableSample.csproj.CoreCompileInputs.cache
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\ImmutableCollections\ImmutableSample\ImmutableSample\obj\Debug\net8.0\ImmutableSample.sourcelink.json
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\ImmutableCollections\ImmutableSample\ImmutableSample\obj\Debug\net8.0\ImmutableSample.dll
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\ImmutableCollections\ImmutableSample\ImmutableSample\obj\Debug\net8.0\refint\ImmutableSample.dll
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\ImmutableCollections\ImmutableSample\ImmutableSample\obj\Debug\net8.0\ImmutableSample.pdb
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\ImmutableCollections\ImmutableSample\ImmutableSample\obj\Debug\net8.0\ImmutableSample.genruntimeconfig.cache
+E:\Projects\gitSample\CSharp-Traning-Samples\CSharpSamples\ImmutableCollections\ImmutableSample\ImmutableSample\obj\Debug\net8.0\ref\ImmutableSample.dll

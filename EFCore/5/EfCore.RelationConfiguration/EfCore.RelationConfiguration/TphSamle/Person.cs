@@ -35,7 +35,7 @@ namespace EfCore.RelationConfiguration.TphSamle
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=.; Initial Catalog= TphDb;Integrated Security = True");
+            optionsBuilder.UseSqlServer("Server=.; Initial Catalog= TphDb;Integrated Security = True;rustServerCertificate=True");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

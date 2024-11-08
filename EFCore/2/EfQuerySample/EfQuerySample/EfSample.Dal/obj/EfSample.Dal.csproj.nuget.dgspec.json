@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ef Core Learning And Traning\\2\\EfQuerySample\\EfQuerySample\\EfSample.Dal\\EfSample.Dal.csproj": {}
+    "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\EFCore\\2\\EfQuerySample\\EfQuerySample\\EfSample.Dal\\EfSample.Dal.csproj": {}
   },
   "projects": {
-    "D:\\Ef Core Learning And Traning\\2\\EfQuerySample\\EfQuerySample\\EfSample.Dal\\EfSample.Dal.csproj": {
+    "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\EFCore\\2\\EfQuerySample\\EfQuerySample\\EfSample.Dal\\EfSample.Dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ef Core Learning And Traning\\2\\EfQuerySample\\EfQuerySample\\EfSample.Dal\\EfSample.Dal.csproj",
+        "projectUniqueName": "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\EFCore\\2\\EfQuerySample\\EfQuerySample\\EfSample.Dal\\EfSample.Dal.csproj",
         "projectName": "EfSample.Dal",
-        "projectPath": "D:\\Ef Core Learning And Traning\\2\\EfQuerySample\\EfQuerySample\\EfSample.Dal\\EfSample.Dal.csproj",
-        "packagesPath": "C:\\Users\\pc2019\\.nuget\\packages\\",
-        "outputPath": "D:\\Ef Core Learning And Traning\\2\\EfQuerySample\\EfQuerySample\\EfSample.Dal\\obj\\",
+        "projectPath": "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\EFCore\\2\\EfQuerySample\\EfQuerySample\\EfSample.Dal\\EfSample.Dal.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\EFCore\\2\\EfQuerySample\\EfQuerySample\\EfSample.Dal\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\pc2019\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Ef Core Learning And Traning\\2\\EfQuerySample\\EfQuerySample\\EfSample.Entities\\EfSample.Entities.csproj": {
-                "projectPath": "D:\\Ef Core Learning And Traning\\2\\EfQuerySample\\EfQuerySample\\EfSample.Entities\\EfSample.Entities.csproj"
+              "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\EFCore\\2\\EfQuerySample\\EfQuerySample\\EfSample.Entities\\EfSample.Entities.csproj": {
+                "projectPath": "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\EFCore\\2\\EfQuerySample\\EfQuerySample\\EfSample.Entities\\EfSample.Entities.csproj"
               }
             }
           }
@@ -41,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -73,29 +75,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Ef Core Learning And Traning\\2\\EfQuerySample\\EfQuerySample\\EfSample.Entities\\EfSample.Entities.csproj": {
+    "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\EFCore\\2\\EfQuerySample\\EfQuerySample\\EfSample.Entities\\EfSample.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ef Core Learning And Traning\\2\\EfQuerySample\\EfQuerySample\\EfSample.Entities\\EfSample.Entities.csproj",
+        "projectUniqueName": "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\EFCore\\2\\EfQuerySample\\EfQuerySample\\EfSample.Entities\\EfSample.Entities.csproj",
         "projectName": "EfSample.Entities",
-        "projectPath": "D:\\Ef Core Learning And Traning\\2\\EfQuerySample\\EfQuerySample\\EfSample.Entities\\EfSample.Entities.csproj",
-        "packagesPath": "C:\\Users\\pc2019\\.nuget\\packages\\",
-        "outputPath": "D:\\Ef Core Learning And Traning\\2\\EfQuerySample\\EfQuerySample\\EfSample.Entities\\obj\\",
+        "projectPath": "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\EFCore\\2\\EfQuerySample\\EfQuerySample\\EfSample.Entities\\EfSample.Entities.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\EFCore\\2\\EfQuerySample\\EfQuerySample\\EfSample.Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\pc2019\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -115,6 +128,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -131,12 +149,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

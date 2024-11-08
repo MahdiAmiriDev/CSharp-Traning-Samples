@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ghMDWG8wZ8IBYrldePHqaAextztO3CmWstfnx6D3sM/Y4tdVHcHi2iCrIpbQdqqsP9As476U55j9Ng51lBd60w==",
+  "dgSpecHash": "CvpbYtTTvaI=",
   "success": true,
-  "projectFilePath": "D:\\Ef Core Learning And Traning\\2\\EfQuerySample\\EfQuerySample\\EfSample.Entities\\EfSample.Entities.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Projects\\gitSample\\CSharp-Traning-Samples\\EFCore\\2\\EfQuerySample\\EfQuerySample\\EfSample.Entities\\EfSample.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }
